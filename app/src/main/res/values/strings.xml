@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">email</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="chat_logo">chat_logo</string>
+    <string name="Name">Name</string>
+    <string name="you">Viktor</string>
+    <string name="write_your_message_here">  Write your message here</string>
+    <string name="messages_sent">Messages sent</string>
+</resources>
